@@ -8,4 +8,5 @@
 ## RUN COMMAND IN THE SERVER
 
  npm  i
+ 
  npm start

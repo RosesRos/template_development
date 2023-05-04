@@ -1,16 +1,11 @@
-# prototype_crypto
+# HTML, JAVASCRIPT FOR START DEVELOPMENT
 
-the project is under development
+- Bandler - Webpack
+- HTML - pug
+- Styles - less, scss, stylelint, jss
+- Javascript - with Webpack
 
-this project presents a simple prototype of web app for crypto
-## with
+## RUN COMMAND IN THE SERVER
 
-- JavaScript
-- Jss for styles
-- JQuery
-- Pug for html
-- Webpack for bandler
-- Sass for global styles
-- [coingecko.com - Api](https://www.coingecko.com/en/api) for crypto infomation
-
-you can view version [DEMO](https://RosesRos.github.io/prototype_crypto/dist/)
+ npm  i
+ npm start

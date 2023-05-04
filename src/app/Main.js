@@ -1,9 +1,4 @@
 import jss from "jss";
-import Header from "./Header";
-import Content from "./Content";
-import Footer from "./Footer";
-import ModalTwo from "./modals/ModalTwo";
-
 
 const root = document.getElementById("root");
 
@@ -22,10 +17,7 @@ jss.createRule(styles).applyTo(root);
 
 const Main = () => {
     root.innerHTML = `
-        ${Header()}
-        ${Content()}
-        ${ModalTwo()}
-        ${Footer()}
+        wait for development
     `
 };
 
